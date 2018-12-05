@@ -22,12 +22,12 @@ const Navbar = ({handleClick, isLoggedIn}) => (
             <div class="container">
               <h2>Haiau<span>Duong</span></h2>
               <ul>
-              <Link to="/home">Home</Link>
+              {/* <Link to="/home">Home</Link>
               <Link to="/about">About</Link>
               <Link to="/skills">Skills</Link>
               <Link to="/resume">Resume</Link>
               <Link to="/projects">Projects</Link>
-              <Link to="/contact">Contact</Link>
+              <Link to="/contact">Contact</Link> */}
               </ul>
             </div>
           </div>
